@@ -5,8 +5,9 @@
 
   <body class="theme-base-0d layout-reverse">
 
-    <button class="sidebar-toggle" type="button" aria-controls="site-sidebar" aria-expanded="false">
-      Menu
+    <button class="sidebar-toggle" type="button" aria-controls="site-sidebar" aria-expanded="false" aria-label="Open menu">
+      <i class="fa-solid fa-bars" aria-hidden="true"></i>
+      <span class="sr-only sidebar-toggle-label">Open menu</span>
     </button>
     {% include sidebar.html %}
 
@@ -17,16 +18,27 @@
     <script>
       (function () {
         var toggle = document.querySelector(".sidebar-toggle");
+        var sidebar = document.getElementById("site-sidebar");
         var body = document.body;
-        if (!toggle || !body) return;
+        var icon = toggle ? toggle.querySelector(".fa-solid") : null;
+        var label = toggle ? toggle.querySelector(".sidebar-toggle-label") : null;
+        if (!toggle || !sidebar || !body) return;
 
         var isDesktop = function () {
           return window.matchMedia("(min-width: 48em)").matches;
         };
 
         var syncLabel = function (expanded) {
+          var menuLabel = expanded ? "Close menu" : "Open menu";
+          var sidebarHidden = !expanded && !isDesktop();
           toggle.setAttribute("aria-expanded", expanded ? "true" : "false");
-          toggle.textContent = expanded ? "Close" : "Menu";
+          toggle.setAttribute("aria-label", menuLabel);
+          sidebar.setAttribute("aria-hidden", sidebarHidden ? "true" : "false");
+          if (label) label.textContent = menuLabel;
+          if (icon) {
+            icon.classList.toggle("fa-bars", !expanded);
+            icon.classList.toggle("fa-xmark", expanded);
+          }
         };
 
         toggle.addEventListener("click", function () {
@@ -43,12 +55,23 @@
           });
         });
 
-        window.addEventListener("resize", function () {
-          if (isDesktop()) {
+        document.addEventListener("keydown", function (event) {
+          if (event.key === "Escape" && body.classList.contains("sidebar-open")) {
             body.classList.remove("sidebar-open");
             syncLabel(false);
           }
         });
+
+        window.addEventListener("resize", function () {
+          if (isDesktop()) {
+            body.classList.remove("sidebar-open");
+            syncLabel(false);
+            return;
+          }
+          syncLabel(body.classList.contains("sidebar-open"));
+        });
+
+        syncLabel(false);
       })();
     </script>
 
