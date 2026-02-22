@@ -4,20 +4,21 @@ title: Hi!
 ---
 # Hi!
 
-I’m **Kaninik Baradi**, a [:Complex Systems Engineer](https://en.wikipedia.org/wiki/Systems_engineering#:~:text=Systems%20engineering%20is,useful%20function.) working on urban sustainability, public policy analysis, climate justice, and managing multi-billion dollar engineering projects. 
+I'm **Kaninik Baradi**. I solve [:wicked problems](), try making the world fairer, and build stuff. My work spans a range, so use these notes to dive into what you care about.
 
- Project Engineer at **SBM Offshore** working across FEED, detailed design, and construction for floating energy assets, with a focus on delivery, interfaces, and risk. :contentReference[oaicite:16]{index=16}
+In my [:day job](#sbm-offshore-project-management), I lead engineering teams to build the [:worlds most complex FPSOs]().
+Since 2025, I've also been affiliated as a researcher with TU Delft, working on institutional analysis, economics and climate justice.
 
-I also conduct independent research at **TU Delft** at the intersection of **AI, public policy, and climate justice**. :contentReference[oaicite:17]{index=17}
+<!-- Software I engineered  -->
 
-- `[:What I do in project execution](#project-execution)`
-- `[:What I research](#research-focus)`
-- See: [Consulting](/consulting) • [Research](/research) • [Projects](/projects) • [Writing](/writing) • [Contact](/contact)
 
-## Subheading test
+### :x SBM Offshore, Project Management
+As a Engineering Project Engineer, I am partly responsbile for making sure our products are built to time, cost, and quality. Since each one costs about 1.5 billion, it's quite a big deal. [Want to know more?](sbm)
 
-## :xProject execution
-I support complex delivery work: cross-discipline alignment, interface resolution, progress reporting automation, and structured risk management. :contentReference[oaicite:18]{index=18}
 
-## :xResearch focus
-I’m exploring open-source LLM approaches for legal/policy analysis to strengthen institutional analysis a:contentReference[oaicite:19]{index=19}tcomes. :contentReference[oaicite:20]{index=20}
+
+## :x Project execution
+I support complex delivery work: cross-discipline alignment, interface resolution, progress reporting automation, and structured risk management.
+
+## :x Research focus
+I'm exploring open-source LLM approaches for legal/policy analysis to strengthen institutional analysis outcomes.
