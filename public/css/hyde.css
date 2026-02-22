@@ -33,15 +33,17 @@
 
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
-@media (min-width: 58em) {
+@media (min-width: 64em) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -59,8 +61,38 @@ html {
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
+
+/* Mobile-first: collapsed sidebar */
+.sidebar {
+  display: none;
+}
+body.sidebar-open .sidebar {
+  display: block;
+}
+
+.sidebar-toggle {
+  position: sticky;
+  top: .75rem;
+  z-index: 1000;
+  margin: .75rem 1rem 0 auto;
+  display: block;
+  padding: .5rem .8rem;
+  border: 1px solid rgba(255,255,255,.4);
+  border-radius: .35rem;
+  background: #202020;
+  color: #fff;
+  font-size: .8rem;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
 @media (min-width: 48em) {
+  .sidebar-toggle {
+    display: none;
+  }
   .sidebar {
+    display: block;
     position: fixed;
     top: 0;
     left: 0;
@@ -153,20 +185,23 @@ a.sidebar-nav-item:focus {
     left: auto;
     right: 0;
   }
+
   .layout-reverse .content {
-    margin-left: 2rem;
-    margin-right: 20rem;
+  --sidebar-width: 18rem;
+  --content-max-width: 38rem;
+  --sidebar-gap-min: 2rem;
+  --left-gap-min: 2rem;        /* set your minimum left gap here */
+  --sidebar-space-ratio: 0.65;
+  --left-space-ratio: 0.35;
+  --extra-space: max(
+    0px,
+    calc(100vw - var(--sidebar-width) - var(--content-max-width) - var(--sidebar-gap-min) - var(--left-gap-min))
+  );
+
+  margin-left: calc(var(--left-gap-min) + (var(--extra-space) * var(--left-space-ratio)));
+  margin-right: calc(var(--sidebar-width) + var(--sidebar-gap-min) + (var(--extra-space) * var(--sidebar-space-ratio)));
   }
 }
-
-@media (min-width: 64em) {
-  .layout-reverse .content {
-    margin-left: 4rem;
-    margin-right: 22rem;
-  }
-}
-
-
 
 /*
  * Themes
