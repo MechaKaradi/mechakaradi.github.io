@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            "Kaninik Baradi"
+tagline:          "Project execution • Systems engineering • Climate Risk • Public policy"
+description:      "Engineering delivery and research at the intersection of complex projects, sustainability, and AI for policy."
+url:              "mechakaradi.github.io"
+baseurl:          /
+
+author:
+  name:           'Kaninik Baradi'
+  url:            "kaninikbaradi@gmail.com"
+
+paginate:         5
+paginate_path:    "/page:num/"
+
+# Custom vars
+# version:          2.1.0
+
+# github:
+#   repo:           https://github.com/poole/hyde
