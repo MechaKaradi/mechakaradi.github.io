@@ -1,0 +1,17 @@
+<picture>
+  {% if include.avif %}
+  <source type="image/avif" srcset="{{ include.avif }}">
+  {% endif %}
+  {% if include.webp %}
+  <source type="image/webp" srcset="{{ include.webp }}">
+  {% endif %}
+  <img
+    src="{{ include.src }}"
+    alt="{{ include.alt | escape }}"
+    loading="lazy"
+    decoding="async"
+    style="max-width: 100%; height: auto;">
+</picture>
+{% if include.caption %}
+<p><em>{{ include.caption }}</em></p>
+{% endif %}
