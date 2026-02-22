@@ -1,7 +1,8 @@
 ---
-layout: page
-title: 
+layout: default
+title: Hi!
 ---
+# Hi!
 
 I’m **Kaninik Baradi**, a [:Complex Systems Engineer](https://en.wikipedia.org/wiki/Systems_engineering#:~:text=Systems%20engineering%20is,useful%20function.) working on urban sustainability, public policy analysis, climate justice, and managing multi-billion dollar engineering projects. 
 
@@ -12,6 +13,8 @@ I also conduct independent research at **TU Delft** at the intersection of **AI,
 - `[:What I do in project execution](#project-execution)`
 - `[:What I research](#research-focus)`
 - See: [Consulting](/consulting) • [Research](/research) • [Projects](/projects) • [Writing](/writing) • [Contact](/contact)
+
+## Subheading test
 
 ## :xProject execution
 I support complex delivery work: cross-discipline alignment, interface resolution, progress reporting automation, and structured risk management. :contentReference[oaicite:18]{index=18}

@@ -10,7 +10,7 @@ title:            "Kaninik Baradi"
 tagline:          "Project execution • Systems engineering • Climate Risk • Public policy"
 description:      "Engineering delivery and research at the intersection of complex projects, sustainability, and AI for policy."
 url:              "https://mechakaradi.github.io"
-baseurl:          ""
+baseurl:          "/"
 
 author:
   name:           'Kaninik Baradi'
