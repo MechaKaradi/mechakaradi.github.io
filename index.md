@@ -4,10 +4,11 @@ title: Hi!
 ---
 # Hi!
 
-I'm **Kaninik Baradi**. I solve [:wicked problems](), try making the world fairer, and build stuff. My work spans a range, so use these notes to dive into what you care about.
+I'm **[:Kaninik]()**. I'm delivering multi-billion dollar engineering projects; developing tools to ensure public policy is well designed; and trying to solve other [:wicked problems]().
 
-In my [:day job](#sbm-offshore-project-management), I lead engineering teams to build the [:worlds most complex FPSOs]().
-Since 2025, I've also been affiliated as a researcher with TU Delft, working on institutional analysis, economics and climate justice.
+like creating resilient infrastructure, and achieving a fair climate transition. My work has spanned  sectors and incorporates many tools; use [these tootltips]() to deep dive on topics you're interested in. 
+
+In my [:day job](#sbm-offshore-project-management), I lead engineering teams to build the [:worlds most complex FPSOs](). Part time, I research if climate adaptation projects are procedurally just. This includes and AI tools to I developed check if policies are designed along these principles. 
 
 <!-- Software I engineered  -->
 

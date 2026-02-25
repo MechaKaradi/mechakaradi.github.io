@@ -250,7 +250,7 @@ a.sidebar-nav-item:focus {
   }
 
   .layout-reverse .content {
-  --sidebar-width: 18rem;
+  --sidebar-width: 22rem;
   --content-max-width: 38rem;
   --sidebar-gap-min: 2rem;
   --left-gap-min: 2rem;        /* set your minimum left gap here */
@@ -261,8 +261,8 @@ a.sidebar-nav-item:focus {
     calc(100vw - var(--sidebar-width) - var(--content-max-width) - var(--sidebar-gap-min) - var(--left-gap-min))
   );
 
-  margin-left: calc(var(--left-gap-min) + (var(--extra-space) * var(--left-space-ratio)));
   margin-right: calc(var(--sidebar-width) + var(--sidebar-gap-min) + (var(--extra-space) * var(--sidebar-space-ratio)));
+  margin-left: calc(var(--left-gap-min) + (var(--extra-space) * var(--left-space-ratio)));
   }
 }
 
