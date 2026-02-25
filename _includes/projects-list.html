@@ -1,0 +1,26 @@
+{% assign want = include.tag | default: "" %}
+{% assign title = include.title | default: "" %}
+
+{% if title != "" %}
+<h2>{{ title }}</h2>
+{% endif %}
+
+<div class="projects-embed">
+  {% assign items = site.projects %}
+
+  {% if want != "" %}
+    {% assign filtered = "" | split: "" %}
+    {% for p in items %}
+      {% if p.tags contains want %}
+        {% assign filtered = filtered | push: p %}
+      {% endif %}
+    {% endfor %}
+    {% assign items = filtered %}
+  {% endif %}
+
+  {% assign items = items | sort: "title" %}
+
+  {% for p in items %}
+    {% include project-card.html p=p %}
+  {% endfor %}
+</div>
