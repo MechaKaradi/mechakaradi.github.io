@@ -4,16 +4,22 @@ title: Hi!
 ---
 # Hi!
 
-I’m [:Kaninik](). In my day job, I deliver billion-dollar [:offshore energy systems](#1). I am also afliated as a researcher at TU Delft where I use [:AI]() to make [climate adaptation policy more inclusive](). Some of my impactful work includes architecting [:digital solutions for urban resilience](), and introducing [:disruptive innovations to wastewater management](). 
+I’m [:Kaninik](). In my day job, I deliver billion-dollar [:offshore energy systems](#offshoreenergysystems). I am also afliated as a researcher at TU Delft where I use [:AI]() to make [climate adaptation policy more inclusive](). Some of my impactful work includes architecting [:digital solutions for urban resilience](), and introducing [:disruptive innovations to wastewater management](). 
 
 I am energized by unlocking value from [:innovations]() to solve [:wicked problems](). I thrive in [:complexity and uncertainity]() where [:engineering, finance, and regulation]() must be derisked simultaneously. 
 
 I grew up in [:Ahmedabad](), and now I live in [:Rotterdam]() with my [:wife]() and our [:dog](). After work, you'll likely find us cooking, messing around with [:DIY](), or at a [:concert]().  
 
-I am always looking for new challenges and strategic collaborations. If you have a problem that needs a disruptive, systemic approach, lets connect via the links in the sidebar. Alternatively, if you're interested in learning more about me, use [these links]().
+I am always looking for new challenges and strategic collaborations. If you have a problem that needs a disruptive, systemic approach, lets connect via the links in the sidebar. Alternatively, if you're interested in learning more about me, use [:these links]().
 
 
-###### :x 1
+###### :x offshoreenergysystems
+At [SBM Offshore](), I am part of the Engineering Management team for [:FPSO](#fpso) projects. We lead [:hundereds of engineers](), and ensure project [:EPCI]() is executed to the safety, quality, schedule and cost requirements of the client and SBM's standards. 
+My role focuses on the [:Hazards management processes](). I also support the Group Sustainability team in developing the [:CSRD Climate Risk Assessment Disclosure](). In 2025, I was part of the Early Potential leadership program at SBM.
+
+###### :x FPSO
+Floating Production Storage and Offloading (FPSO) facilities are a type of deep water infrastructure, used to [:extract and process crude oil] from ocean depths on the order of 1000-3000 m.
+
 Energy Systems & Scale: Leading cross-functional teams to deliver billion-dollar FPSO infrastructure. I apply the "zero-failure" engineering logic of the offshore sector to ensure operational safety and risk mitigation in high-stakes environments.
 ###### :x 2 
  Urban Systems & Resilience: Beyond developing the award-winning [MoniTrd](:IoT-driven sanitation monitoring) system, my work with the Urban Management Centre (UMC) involved designing [municipal data frameworks][8], e-learning for urban practitioners, and [heritage documentation][9] to bridge the gap between community needs and institutional capacity.
