@@ -4,6 +4,7 @@ title: Hi!
 ---
 # Hi!
 
+<<<<<<< HEAD
 I’m [:Kaninik](). In my day job, I deliver billion-dollar [:offshore energy systems](#offshoreenergysystems). I am also afliated as a researcher at TU Delft where I use [:AI](#aiisntathing) to make [climate adaptation policy more inclusive](). Some of my impactful work includes architecting [:digital solutions for urban resilience](), and introducing [:disruptive innovations to wastewater management](). 
 
 I am energized by unlocking value from [:innovations]() to solve [:wicked problems](). I thrive in [:complexity and uncertainity]() where [:engineering, finance, and regulation]() must be derisked simultaneously. 
@@ -14,6 +15,7 @@ I am always looking for new challenges and strategic collaborations. If you have
 
 
 ###### :x offshoreenergysystems
+<<<<<<< HEAD
 At [SBM Offshore](), I am part of the Engineering Management team for [:FPSO](#fpso) projects. We lead [:hundereds of engineers](#workhours), and ensure project [:EPCI]() is executed to the safety, quality, schedule and cost requirements of the client and SBM's standards. 
 My role focuses on risk and quality management throughout engineering. I also support the Corporate Sustainability team in developing the [:CSRD Climate Risk Assessment Disclosure](). In 2025, I was part of the Early Potential leadership program at SBM.
 
