@@ -4,8 +4,7 @@ title: Hi!
 ---
 # Hi!
 
-<<<<<<< HEAD
-I’m [:Kaninik](). In my day job, I deliver billion-dollar [:offshore energy systems](#offshoreenergysystems). I am also afliated as a researcher at TU Delft where I use [:AI](#aiisntathing) to make [climate adaptation policy more inclusive](). Some of my impactful work includes architecting [:digital solutions for urban resilience](), and introducing [:disruptive innovations to wastewater management](). 
+I’m [:Kaninik](). In my day job, I deliver billion-dollar [:offshore energy systems](#offshoreenergysystems). I am also afliated as a researcher at TU Delft where I use [:AI](#aiisntjustonething) to make [climate adaptation policy more inclusive](#ClimateJustice). Some of my impactful work includes architecting [:digital solutions for urban resilience](), and introducing [:disruptive innovations to wastewater management](#monitrd). 
 
 I am energized by unlocking value from [:innovations]() to solve [:wicked problems](). I thrive in [:complexity and uncertainity]() where [:engineering, finance, and regulation]() must be derisked simultaneously. 
 
@@ -15,9 +14,8 @@ I am always looking for new challenges and strategic collaborations. If you have
 
 
 ###### :x offshoreenergysystems
-<<<<<<< HEAD
 At [SBM Offshore](), I am part of the Engineering Management team for [:FPSO](#fpso) projects. We lead [:hundereds of engineers](#workhours), and ensure project [:EPCI]() is executed to the safety, quality, schedule and cost requirements of the client and SBM's standards. 
-My role focuses on risk and quality management throughout engineering. I also support the Corporate Sustainability team in developing the [:CSRD Climate Risk Assessment Disclosure](). In 2025, I was part of the Early Potential leadership program at SBM.
+My role focuses on risk and quality management throughout engineering. I also support the Corporate Sustainability team in developing the [:CSRD Climate Risk Assessment Disclosure](#CSRDPCRA). In 2025, I was part of the Early Potential leadership program at SBM.
 
 ###### :x FPSO
 Floating Production Storage and Offloading (FPSO) facilities are a type of deep water infrastructure, used to [:extract and process crude oil](#oilandgas) from ocean depths on the order of 1000-3000 m.
@@ -28,12 +26,24 @@ The irony of working in Oil and Gas, while also talking about climate justice po
 ###### :x workhours
 A typical project spends upwards of 1 million work-hours on engineering design development alone.
 
-###### :x AI isn't A Thing
+##### :x AI isn't Just One Thing
 My first project used evolutionary multi-objective optimisation algorithms to look at the impacts of different climate scenarios on global economic inequity. The more recent work has been looking into the structured use of large language models to transform qualitative research methods into quantitative ones. 
 
-###### :x nr
+###### :x CSRD PCRA
 
+CSRD PCRA. Jargon, but what it means is the EU requires all large companies to _quantify_ the risk they are exposed to from climate change. I have been involved in the assessment of this risk for SBM since the 2023, when the reporting requirements were first introduced. You can see the public disclosures resulting from this work in SBM's [annual report](). 
+
+###### :x Monitrd
+
+In 2022-2023, I developed [MoniTrd](https://www.linkedin.com/pulse/fighting-climate-change-one-start-up-time-meet-monitrd-claire-visser/), a decentralised monitoring solution for septic tanks. The desing consisted of a system design for a service, as well as a financial model for a startup. The project once the Delft Enterprise award at the TU Delft Impact Contest.
+
+###### :x Climate Justice
+For my [MSc thesis](https://repository.tudelft.nl/record/uuid:736728a9-4a3a-4587-97f2-d23554cc2b85), I tackled the issue of 'Who gets to decide' when it comes ot climate change adpatation projects. One of the ironies of climate change is that those responsible for causing it, are least likely to suffer its impacts. This is true between countries, but is even more true of inequities within countries. I use [:AI](#ai-isnt-just-one-thing) and Institutional Analysis to examine whether the decision making processes of cliamte change projects address these concerns through fair rules. 
+
+
+###### :x nr
 Energy Systems & Scale: Leading cross-functional teams to deliver billion-dollar FPSO infrastructure. I apply the "zero-failure" engineering logic of the offshore sector to ensure operational safety and risk mitigation in high-stakes environments.
+
 ###### :x 2 
  Urban Systems & Resilience: Beyond developing the award-winning [MoniTrd](:IoT-driven sanitation monitoring) system, my work with the Urban Management Centre (UMC) involved designing [municipal data frameworks][8], e-learning for urban practitioners, and [heritage documentation][9] to bridge the gap between community needs and institutional capacity.
 ###### :x 3 
