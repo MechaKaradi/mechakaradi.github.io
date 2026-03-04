@@ -25,6 +25,9 @@
       {% if site.author.email %}
       <a class="sidebar-meta-link" href="mailto:{{ site.author.email }}">Email</a>
       {% endif %}
+      {% if site.author.linkedin %}
+      <a class="sidebar-meta-link" href="{{ site.author.linkedin }}">Linkedin</a>      {% endif %}
+      {% endif %}
       {% if site.url %}
       <!-- <a class="sidebar-meta-link" href="{{ site.url }}">{{ site.url | replace: "https://", "" | replace: "http://", "" }}</a> -->
       {% endif %}

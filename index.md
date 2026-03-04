@@ -4,13 +4,21 @@ title: Hi!
 ---
 # Hi!
 
-I’m [:Kaninik](). In my day job, I deliver billion-dollar [:offshore energy systems](#offshoreenergysystems). I am also afliated as a researcher at TU Delft where I use [:AI](#aiisntjustonething) to make [climate adaptation policy more inclusive](#ClimateJustice). Some of my impactful work includes architecting [:digital solutions for urban resilience](), and introducing [:disruptive innovations to wastewater management](#monitrd). 
+I’m [:Kaninik](#kaninik). In my day job, I deliver billion-dollar [:offshore energy systems](#offshoreenergysystems). I am also afliated as a researcher at TU Delft where I use [:AI](#aiisntjustonething) to make [:climate adaptation policy more inclusive](#ClimateJustice). Some of my impactful work includes architecting [:digital solutions for urban resilience](#quneiform), and introducing [:disruptive innovations to wastewater management](#monitrd). 
 
 I am energized by unlocking value from [:innovations]() to solve [:wicked problems](). I thrive in [:complexity and uncertainity]() where [:engineering, finance, and regulation]() must be derisked simultaneously. 
 
 I grew up in [:Ahmedabad](), and now I live in [:Rotterdam]() with my [:wife]() and our [:dog](). After work, you'll likely find us cooking, messing around with [:DIY](), or at a [:concert]().  
 
 I am always looking for new challenges and strategic collaborations. If you have a problem that needs a disruptive, systemic approach, lets connect via the links in the sidebar. Alternatively, if you're interested in learning more about me, use [:these links]().
+
+###### :x whoops
+Hi! You'd like to know more, but I haven't filled this section out yet. So why not send me a message! 
+
+
+
+###### :x kaninik
+I'm the [only person with my first name](), and my last name is made up. Kaninik derives from Kaninika (gujarati) meaning 'the apple of your eye'. 
 
 ###### :x offshoreenergysystems
 At [SBM Offshore](), I am part of the Engineering Management team for [:FPSO](#fpso) projects. We lead [:hundereds of engineers](#workhours), and ensure project [:EPCI]() is executed to the safety, quality, schedule and cost requirements of the client and SBM's standards. 
@@ -29,16 +37,17 @@ A typical project spends upwards of 1 million work-hours on engineering design d
 My first project used evolutionary multi-objective optimisation algorithms to look at the impacts of different climate scenarios on global economic inequity. The more recent work has been looking into the structured use of large language models to transform qualitative research methods into quantitative ones. 
 
 ###### :x CSRD PCRA
+CSRD PCRA - bit jargon heavy, but what it means is the EU requires all large companies to _quantify_ the risk they are exposed to from climate change. I have been involved in the assessment of this risk for SBM since the 2023, when the reporting requirements were first introduced. You can see the public disclosures resulting from this work in SBM's [annual report](). 
 
-CSRD PCRA. Jargon, but what it means is the EU requires all large companies to _quantify_ the risk they are exposed to from climate change. I have been involved in the assessment of this risk for SBM since the 2023, when the reporting requirements were first introduced. You can see the public disclosures resulting from this work in SBM's [annual report](). 
 
 ###### :x Monitrd
-
 In 2022-2023, I developed [MoniTrd](https://www.linkedin.com/pulse/fighting-climate-change-one-start-up-time-meet-monitrd-claire-visser/), a decentralised monitoring solution for septic tanks. The desing consisted of a system design for a service, as well as a financial model for a startup. The project once the Delft Enterprise award at the TU Delft Impact Contest.
 
 ###### :x Climate Justice
 For my [MSc thesis](https://repository.tudelft.nl/record/uuid:736728a9-4a3a-4587-97f2-d23554cc2b85), I tackled the issue of 'Who gets to decide' when it comes ot climate change adpatation projects. One of the ironies of climate change is that those responsible for causing it, are least likely to suffer its impacts. This is true between countries, but is even more true of inequities within countries. I use [:AI](#ai-isnt-just-one-thing) and Institutional Analysis to examine whether the decision making processes of cliamte change projects address these concerns through fair rules. 
 
+###### :x QUNEIFORM
+In 2020, while working for [UMC](https://home.umcasia.org/), I was challenged to find a solution to create a solution for a community led survey which would later need to be integated with social security delivery from the government. [Quneiform](https://home.umcasia.org/quneiform) was born from that exericise, and since hten has been used by multiple state and national govenrments to conduct grassroots program management. 
 
 ###### :x nr
 Energy Systems & Scale: Leading cross-functional teams to deliver billion-dollar FPSO infrastructure. I apply the "zero-failure" engineering logic of the offshore sector to ensure operational safety and risk mitigation in high-stakes environments.
