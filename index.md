@@ -12,7 +12,6 @@ I grew up in [:Ahmedabad](), and now I live in [:Rotterdam]() with my [:wife]() 
 
 I am always looking for new challenges and strategic collaborations. If you have a problem that needs a disruptive, systemic approach, lets connect via the links in the sidebar. Alternatively, if you're interested in learning more about me, use [:these links]().
 
-
 ###### :x offshoreenergysystems
 At [SBM Offshore](), I am part of the Engineering Management team for [:FPSO](#fpso) projects. We lead [:hundereds of engineers](#workhours), and ensure project [:EPCI]() is executed to the safety, quality, schedule and cost requirements of the client and SBM's standards. 
 My role focuses on risk and quality management throughout engineering. I also support the Corporate Sustainability team in developing the [:CSRD Climate Risk Assessment Disclosure](#CSRDPCRA). In 2025, I was part of the Early Potential leadership program at SBM.
