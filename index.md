@@ -6,22 +6,22 @@ title: Hi!
 
 I’m [:Kaninik](#kaninik). In my day job, I deliver billion-dollar [:offshore energy systems](#offshoreenergysystems). I am also afliated as a researcher at TU Delft where I use [:AI](#aiisntjustonething) to make [:climate adaptation policy more inclusive](#ClimateJustice). Some of my impactful work includes architecting [:digital solutions for urban resilience](#quneiform), and introducing [:disruptive innovations to wastewater management](#monitrd). 
 
-I am energized by unlocking value from [:innovations]() to solve [:wicked problems](). I thrive in [:complexity and uncertainity]() where [:engineering, finance, and regulation]() must be derisked simultaneously. 
+I am energized by unlocking value from [:innovations](#whoops) to solve [:wicked problems](#whoops). I thrive in [:complexity and uncertainity](#whoops) where [:engineering, finance, and regulation](#whoops) must be derisked simultaneously. 
 
-I grew up in [:Ahmedabad](), and now I live in [:Rotterdam]() with my [:wife]() and our [:dog](). After work, you'll likely find us cooking, messing around with [:DIY](), or at a [:concert]().  
+I grew up in [:Ahmedabad](#whoops), and now I live in [:Rotterdam](#whoops) with my [:wife](#whoops) and our [:dog](#whoops). After work, you'll likely find us cooking, messing around with [:DIY](#whoops), or at a [:concert](#whoops).  
 
-I am always looking for new challenges and strategic collaborations. If you have a problem that needs a disruptive, systemic approach, lets connect via the links in the sidebar. Alternatively, if you're interested in learning more about me, use [:these links]().
+I am always looking for new challenges and strategic collaborations. If you have a problem that needs a disruptive, systemic approach, lets connect via the links in the sidebar. Alternatively, if you're interested in learning more about me, use [:these links](#whoops).
 
 ###### :x whoops
-Hi! You'd like to know more, but I haven't filled this section out yet. So why not send me a message! 
+Hi! You'd like to know more, but I haven't filled this section out yet. So, why not send me a message from the sidebar! 
 
 
 
 ###### :x kaninik
-I'm the [only person with my first name](), and my last name is made up. Kaninik derives from Kaninika (gujarati) meaning 'the apple of your eye'. 
+I'm the [only person with my first name](#whoops), and my last name is made up. Kaninik derives from Kaninika (gujarati) meaning 'the apple of your eye'. 
 
 ###### :x offshoreenergysystems
-At [SBM Offshore](), I am part of the Engineering Management team for [:FPSO](#fpso) projects. We lead [:hundereds of engineers](#workhours), and ensure project [:EPCI]() is executed to the safety, quality, schedule and cost requirements of the client and SBM's standards. 
+At [SBM Offshore](#whoops), I am part of the Engineering Management team for [:FPSO](#fpso) projects. We lead [:hundereds of engineers](#workhours), and ensure project [:EPCI](#whoops) is executed to the safety, quality, schedule and cost requirements of the client and SBM's standards. 
 My role focuses on risk and quality management throughout engineering. I also support the Corporate Sustainability team in developing the [:CSRD Climate Risk Assessment Disclosure](#CSRDPCRA). In 2025, I was part of the Early Potential leadership program at SBM.
 
 ###### :x FPSO
@@ -37,7 +37,7 @@ A typical project spends upwards of 1 million work-hours on engineering design d
 My first project used evolutionary multi-objective optimisation algorithms to look at the impacts of different climate scenarios on global economic inequity. The more recent work has been looking into the structured use of large language models to transform qualitative research methods into quantitative ones. 
 
 ###### :x CSRD PCRA
-CSRD PCRA - bit jargon heavy, but what it means is the EU requires all large companies to _quantify_ the risk they are exposed to from climate change. I have been involved in the assessment of this risk for SBM since the 2023, when the reporting requirements were first introduced. You can see the public disclosures resulting from this work in SBM's [annual report](). 
+CSRD PCRA - bit jargon heavy, but what it means is the EU requires all large companies to _quantify_ the risk they are exposed to from climate change. I have been involved in the assessment of this risk for SBM since the 2023, when the reporting requirements were first introduced. You can see the public disclosures resulting from this work in SBM's [annual report](#whoops). 
 
 
 ###### :x Monitrd
@@ -89,7 +89,7 @@ I want to create coherence between 3 identities - engineering manager in a large
 
 Engineering complex systems , managing people to work better in the system.
 Engineering Project Manager. Public Policy Researcher. Innovating to solve wicked problems. 
-Delivering multi-billion dollar FPSOs. As a researcher, I am developing tools to ensure public policy is well designed. and trying to solve other [:wicked problems](). 
+Delivering multi-billion dollar FPSOs. As a researcher, I am developing tools to ensure public policy is well designed. and trying to solve other [:wicked problems](#whoops). 
 
 physical climate risk assessement - CSRD
 early potential program
