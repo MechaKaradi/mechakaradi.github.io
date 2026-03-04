@@ -35,6 +35,8 @@ CSRD PCRA. Jargon, but what it means is the EU requires all large companies to _
 
 ###### :x Monitrd
 
+###### :x Monitrd
+
 In 2022-2023, I developed [MoniTrd](https://www.linkedin.com/pulse/fighting-climate-change-one-start-up-time-meet-monitrd-claire-visser/), a decentralised monitoring solution for septic tanks. The desing consisted of a system design for a service, as well as a financial model for a startup. The project once the Delft Enterprise award at the TU Delft Impact Contest.
 
 ###### :x Climate Justice
