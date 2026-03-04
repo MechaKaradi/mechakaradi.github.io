@@ -3,28 +3,21 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<p class="lead">I deliver complex offshore energy systems and build AI-enabled research methods for fairer climate adaptation decisions.</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<p class="message">My work connects engineering execution, innovation strategy, and institutional policy analysis—so ideas can move from concept to reliable implementation in high-stakes environments.</p>
 
-There are currently two themes built on Poole:
+## What I do
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+- Lead engineering risk and quality across large, multi-disciplinary infrastructure programs.
+- Support climate-risk assessment and disclosure work in corporate sustainability contexts.
+- Apply AI and institutional analysis methods to evaluate governance and procedural justice in climate adaptation.
+- Design practical digital solutions for difficult public-systems and resilience challenges.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Background
 
-## Setup
+I’m from Ahmedabad and now based in Rotterdam. Across industry and research, I focus on one constant: helping organizations make better decisions under complexity and uncertainty.
 
-Some fun facts about the setup of this project include:
+## Connect
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+If you'd like to collaborate, reach out through the links in the sidebar.
