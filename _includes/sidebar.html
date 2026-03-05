@@ -11,7 +11,7 @@
 
     <nav class="sidebar-nav" aria-label="Primary">
       <p class="sidebar-nav-label">Explore</p>
-      <a class="sidebar-nav-item{% if page.url != site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+      <a class="sidebar-nav-item{% unless page.url == '/' or page.url == '/index.html' %} active{% endunless %}" href="{{ '/' | relative_url }}"> Home </a>
 
       {% assign pages_list = site.pages | sort: "title" %}
       {% for node in pages_list %}
@@ -23,7 +23,7 @@
 
     <div class="sidebar-meta">
       {% if site.author.email %}
-      <a class="sidebar-meta-link" href="mailto:{{ site.author.email }}">Email</a>
+      <a class="sidebar-meta-link" href="mailto:{{ site.author.email }}">Email</a><br>
       {% endif %}
       {% if site.author.linkedin %}
       <a class="sidebar-meta-link" href="{{ site.author.linkedin }}">Linkedin</a>      
