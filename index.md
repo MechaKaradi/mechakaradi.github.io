@@ -4,9 +4,9 @@ title: Hi!
 ---
 # Hi!
 
-I’m [:Kaninik](#kaninik). In my day job, I deliver billion-dollar [:offshore energy systems](#offshoreenergysystems). I am also afliated as a researcher at TU Delft where I use [:AI](#aiisntjustonething) to make [:climate adaptation policy more inclusive](#ClimateJustice). Some of my impactful work includes architecting [:digital solutions for urban resilience](#quneiform), and introducing [:disruptive innovations to wastewater management](#monitrd). 
+I’m [:Kaninik](#MYNAME). In my day job, I deliver billion-dollar [:offshore energy systems](#offshoreenergysystems). I am also afliated as a researcher at TU Delft where I use [:AI](#aiisntjustonething) to make [:climate adaptation policy more inclusive](#ClimateJustice). Some of my impactful work includes architecting [:digital solutions for urban resilience](#quneiform), and introducing [:disruptive innovations to wastewater management](#monitrd). 
 
-I am energized by unlocking value from [:innovations](#whoops) to solve [:wicked problems](#whoops). I thrive in [:complexity and uncertainity](#whoops) where [:engineering, finance, and regulation](#whoops) must be derisked simultaneously. 
+I am energized by unlocking value from [:innovations](#whoops) to solve [:wicked problems](#wickedproblems). I thrive in [:complexity and uncertainity](#whoops) where [:engineering, finance, and regulation](#whoops) must be derisked simultaneously. 
 
 I grew up in [:Ahmedabad](#whoops), and now I live in [:Rotterdam](#whoops) with my [:wife](#whoops) and our [:dog](#whoops). After work, you'll likely find us cooking, messing around with [:DIY](#whoops), or at a [:concert](#whoops).  
 
@@ -15,9 +15,7 @@ I am always looking for new challenges and strategic collaborations. If you have
 ###### :x whoops
 Hi! You'd like to know more, but I haven't filled this section out yet. So, why not send me a message from the sidebar! 
 
-
-
-###### :x kaninik
+###### :x MYNAME
 I'm the [only person with my first name](#whoops), and my last name is made up. Kaninik derives from Kaninika (gujarati) meaning 'the apple of your eye'. 
 
 ###### :x offshoreenergysystems
@@ -39,7 +37,6 @@ My first project used evolutionary multi-objective optimisation algorithms to lo
 ###### :x CSRD PCRA
 CSRD PCRA - bit jargon heavy, but what it means is the EU requires all large companies to _quantify_ the risk they are exposed to from climate change. I have been involved in the assessment of this risk for SBM since the 2023, when the reporting requirements were first introduced. You can see the public disclosures resulting from this work in SBM's [annual report](#whoops). 
 
-
 ###### :x Monitrd
 In 2022-2023, I developed [MoniTrd](https://www.linkedin.com/pulse/fighting-climate-change-one-start-up-time-meet-monitrd-claire-visser/), a decentralised monitoring solution for septic tanks. The desing consisted of a system design for a service, as well as a financial model for a startup. The project once the Delft Enterprise award at the TU Delft Impact Contest.
 
@@ -48,6 +45,11 @@ For my [MSc thesis](https://repository.tudelft.nl/record/uuid:736728a9-4a3a-4587
 
 ###### :x QUNEIFORM
 In 2020, while working for [UMC](https://home.umcasia.org/), I was challenged to find a solution to create a solution for a community led survey which would later need to be integated with social security delivery from the government. [Quneiform](https://home.umcasia.org/quneiform) was born from that exericise, and since hten has been used by multiple state and national govenrments to conduct grassroots program management. 
+
+
+###### :x wickedproblems
+Wicked, not in the sense of evil, but wicked in the sense of treacherous, tricky, or atleast naughty. The concept applies to design, public policy and socio-technical problems where values are contensted, there is no optimal solution, and trial and error are not options. Solving one is a tall order. the correct mindset is one of looking for oppurtunities, and influencing the system. [Read more](https://www.stonybrook.edu/commcms/wicked-problem/about/What-is-a-wicked-problem)
+
 
 ###### :x nr
 Energy Systems & Scale: Leading cross-functional teams to deliver billion-dollar FPSO infrastructure. I apply the "zero-failure" engineering logic of the offshore sector to ensure operational safety and risk mitigation in high-stakes environments.
