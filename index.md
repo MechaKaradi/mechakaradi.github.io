@@ -16,7 +16,7 @@ I am always looking for new challenges and strategic collaborations. If you have
 Hi! You'd like to know more, but I haven't filled this section out yet. So, why not send me a message from the sidebar! 
 
 ###### :x MYNAME
-I'm the [only person with my first name](#whoops), and my last name is made up. Kaninik derives from Kaninika (gujarati) meaning 'the apple of your eye'. 
+I'm the [only person with my first name](https://www.google.com/search?q=kaninik), and my last name is made up. Kaninik derives from Kaninika (gujarati) meaning 'the apple of your eye'. 
 
 ###### :x offshoreenergysystems
 At [SBM Offshore](#whoops), I am part of the Engineering Management team for [:FPSO](#fpso) projects. We lead [:hundereds of engineers](#workhours), and ensure project [:EPCI](#whoops) is executed to the safety, quality, schedule and cost requirements of the client and SBM's standards. 
@@ -35,7 +35,7 @@ A typical project spends upwards of 1 million work-hours on engineering design d
 My first project used evolutionary multi-objective optimisation algorithms to look at the impacts of different climate scenarios on global economic inequity. The more recent work has been looking into the structured use of large language models to transform qualitative research methods into quantitative ones. 
 
 ###### :x CSRD PCRA
-CSRD PCRA - bit jargon heavy, but what it means is the EU requires all large companies to _quantify_ the risk they are exposed to from climate change. I have been involved in the assessment of this risk for SBM since the 2023, when the reporting requirements were first introduced. You can see the public disclosures resulting from this work in SBM's [annual report](#whoops). 
+CSRD PCRA - bit jargon heavy, but what it means is the EU requires all large companies to _quantify_ the risk they are exposed to from climate change. In response to the CSRD requirements for disclosing corporate physical climate‑related risks, I have been contributing to the development of SBM Offshore’s physical climate‑risk assessment since 2024. The result is disclosed on SBM Offshore’s Annual Report."
 
 ###### :x Monitrd
 In 2022-2023, I developed [MoniTrd](https://www.linkedin.com/pulse/fighting-climate-change-one-start-up-time-meet-monitrd-claire-visser/), a decentralised monitoring solution for septic tanks. The desing consisted of a system design for a service, as well as a financial model for a startup. The project once the Delft Enterprise award at the TU Delft Impact Contest.
@@ -46,6 +46,8 @@ For my [MSc thesis](https://repository.tudelft.nl/record/uuid:736728a9-4a3a-4587
 ###### :x QUNEIFORM
 In 2020, while working for [UMC](https://home.umcasia.org/), I was challenged to find a solution to create a solution for a community led survey which would later need to be integated with social security delivery from the government. [Quneiform](https://home.umcasia.org/quneiform) was born from that exericise, and since hten has been used by multiple state and national govenrments to conduct grassroots program management. 
 
+###### :x whoops
+Hi! You'd like to know more, but I haven't filled this section out yet. So, why not send me a message from the sidebar! 
 
 ###### :x wickedproblems
 Wicked, not in the sense of evil, but wicked in the sense of treacherous, tricky, or atleast naughty. The concept applies to design, public policy and socio-technical problems where values are contensted, there is no optimal solution, and trial and error are not options. Solving one is a tall order. the correct mindset is one of looking for oppurtunities, and influencing the system. [Read more](https://www.stonybrook.edu/commcms/wicked-problem/about/What-is-a-wicked-problem)
@@ -77,7 +79,7 @@ Energy Systems & Scale: Leading cross-functional teams to deliver billion-dollar
 
 
 ### :x SBM Offshore, Project Management
-As a Engineering Project Engineer, I am partly responsbile for making sure our products are built to time, cost, and quality. Since each one costs about 1.5 billion, it's quite a big deal. [Want to know more?](sbm)
+As a Engineering Project Engineer, I am partly responsbile for making sure our products are built to time, cost, and quality. Since each one costs about 1.5 billion, it's quite a big deal. [Want to know more?](#sbm)
 
 ## :x Project execution
 I support complex delivery work: cross-discipline alignment, interface resolution, progress reporting automation, and structured risk management.
