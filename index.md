@@ -8,7 +8,7 @@ I’m [:Kaninik](#MYNAME). In my day job, I deliver billion-dollar [:offshore en
 
 I am energized by unlocking value from [:innovations](#whoops) to solve [:wicked problems](#wickedproblems). I thrive in [:complexity and uncertainity](#whoops) where [:engineering, finance, and regulation](#whoops) must be derisked simultaneously. 
 
-I grew up in [:Ahmedabad](#whoops), and now I live in [:Rotterdam](#whoops) with my [:wife](#whoops) and our [:dog](#whoops). After work, you'll likely find us cooking, messing around with [:DIY](#whoops), or at a [:concert](#whoops).  
+I grew up in [:Ahmedabad](#whoops), and now I live in [:Rotterdam](#whoops) with my [:wife](#Rishika) and our [:dog](#Poppy). After work, you'll likely find us cooking, messing around with [:DIY](#whoops), or at a [:concert](#whoops).  
 
 I am always looking for new challenges and strategic collaborations. If you have a problem that needs a disruptive, systemic approach, lets connect via the links in the sidebar. Alternatively, if you're interested in learning more about me, use [:these links](#whoops).
 
@@ -44,7 +44,7 @@ In 2022-2023, I developed [MoniTrd](https://www.linkedin.com/pulse/fighting-clim
 For my [MSc thesis](https://repository.tudelft.nl/record/uuid:736728a9-4a3a-4587-97f2-d23554cc2b85), I tackled the issue of 'Who gets to decide' when it comes ot climate change adpatation projects. One of the ironies of climate change is that those responsible for causing it, are least likely to suffer its impacts. This is true between countries, but is even more true of inequities within countries. I use [:AI](#ai-isnt-just-one-thing) and Institutional Analysis to examine whether the decision making processes of cliamte change projects address these concerns through fair rules. 
 
 ###### :x QUNEIFORM
-In 2020, while working for [UMC](https://home.umcasia.org/), I was challenged to find a solution to create a solution for a community led survey which would later need to be integated with social security delivery from the government. [Quneiform](https://home.umcasia.org/quneiform) was born from that exericise, and since hten has been used by multiple state and national govenrments to conduct grassroots program management. 
+In 2020, while working for [UMC](https://home.umcasia.org/), I was challenged to find a solution to create a solution for a community led survey which would later need to be integated with social security delivery from the government. [Quneiform](https://home.umcasia.org/quneiform) was born from that exericise. It has since been used by multiple state and national govenrments to conduct grassroots program management. 
 
 ###### :x whoops
 Hi! You'd like to know more, but I haven't filled this section out yet. So, why not send me a message from the sidebar! 
@@ -52,8 +52,24 @@ Hi! You'd like to know more, but I haven't filled this section out yet. So, why 
 ###### :x wickedproblems
 Wicked, not in the sense of evil, but wicked in the sense of treacherous, tricky, or atleast naughty. The concept applies to design, public policy and socio-technical problems where values are contensted, there is no optimal solution, and trial and error are not options. Solving one is a tall order. the correct mindset is one of looking for oppurtunities, and influencing the system. [Read more](https://www.stonybrook.edu/commcms/wicked-problem/about/What-is-a-wicked-problem)
 
+###### :x Rishika
+Without Rishika Srivastava in my life, I don't think I would have ever made it this far. She's a lawyer, public policy professional, and all around incredible person. [Learn more about her work here](https://www.linkedin.com/in/rishika-srivastava-753629144/)
+{% include responsive-image.html 
+  src="\assets\img\Rishika 1.jpg"
+  alt="Candid picture of my wife, who is overjoyed at having stolen my phones, Nov 2023."
+  caption="Cadid picture of my wife, Nov 2023."
+%}
 
-###### :x nr
+###### :x Poppy
+Poppy was born in Bosnia, and came to us in the Netherlands through a [charity](https://stichtingwoozy.nl/honden-ter-adoptie/).
+{% include responsive-image.html 
+  src="assets\img\Poppy 1.jpg"
+  alt="My dog poppy lying in the sun with her mouse soft-toy. You're really missing out."
+  caption="My dog poppy lying in the sun with her mouse soft-toy."
+%}
+
+
+###### :x nrd
 Energy Systems & Scale: Leading cross-functional teams to deliver billion-dollar FPSO infrastructure. I apply the "zero-failure" engineering logic of the offshore sector to ensure operational safety and risk mitigation in high-stakes environments.
 
 ###### :x 2 
